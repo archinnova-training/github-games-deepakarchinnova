@@ -2,6 +2,7 @@
 
 A project based learning activity for people who are getting started with Git and GitHub.
 
+
 ### Instructions for playing the game
 
 1. Press the space bar to begin.
@@ -12,6 +13,9 @@ A project based learning activity for people who are getting started with Git an
 6. To pause the game, just press the space bar again.
 
 You can play the game at: https://githubschool.github.io/github-games/
+
+You can play the game at: https://archinnova-training.github.io/github-games-deepakarchinnova/
+
 
 >> _*SUPPORTED BROWSERS*: Chrome, Firefox, Safari, Opera and IE9+_
 
